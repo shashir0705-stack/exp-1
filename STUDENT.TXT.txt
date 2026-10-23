@@ -1,0 +1,6 @@
+Student Details
+
+Name: SHASHIKALA.R
+USN: 2026LCS066
+Experiment: EXP-1
+Subject: DevOps
